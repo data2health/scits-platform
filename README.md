@@ -1,15 +1,12 @@
-# Template for project repositories
-Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation and provides an introductory GitHub tutorial for project management purposes. 
-
-This "project" will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
+# Science of Translational Science Research Platform 
 
 ## Problem statement
-Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
+Currently, it is difficult to find expertise, data, software, and educational resources in the CTSA program. This platform aims to reveal them and connect them to make them more discoverable. 
 
 ## Project description
-(we will migrate these from the Project Matrix for you)
+Organizations expend substantial effort maintaining local databases of effectively the same data - people, publications, grants, etc. and the challenge of scholar disambiguation and longitudinal data collection and tracking remains unsolved. A shared data environment in the form of a warehouse of research data was strongly endorsed by participants in the most recent PEA Community meeting. Collaborative population and maintenance of common data would reduce local hub effort, improve data quality, and serve as an exemplar of collaborative activity for the CTSA program and NIH programs overall. Substantial effort has been spent on this topic by hubs establishing priorities and developing manual and semi-automated processes which can help to guide efforts toward automation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a felis non scelerisque. Etiam molestie nisi ut mi viverra dictum. Nunc et tempor quam. Maecenas a viverra sapien. Aliquam lacinia sagittis lorem ac sodales. Fusce justo mi, cursus sed metus sed, ornare vestibulum mauris. Donec in orci ornare, facilisis nisl ut, congue libero.
+The 4DM Project (Drug Discovery, Development and Deployment Map) created by NCATS has generated substantial interest in understanding the interdependencies of translational research and the entities involved. The 4DM prototype will be extended to incorporate relevant backing data from the data warehouse to display when selecting a vertex in the visualization graph. Ultimately, we can leverage these data for a variety of purposes at hubs, including workflows for improved data quality, process efficiency, automation, benchmarking, etc. We will first examine relevance for longitudinal scholar data tracking and reporting.
 
 ## Contact person
 
@@ -17,7 +14,7 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
+David Eichmann (@eichmann) | OHSU | Melissa Haendel (@mellybelly)
 
 ## Leads 
 
@@ -25,57 +22,27 @@ Project scientific leadership, should be 1-3 persons.
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Julie McMurry (@jmcmurry) | OHSU 
+Keith Herzog (@KeithAHerzog) | Northwestern 
 
 
 ## Team members 
 
-No action required here, a list of team members will be imported and linked below.
-
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+See TO DO
 
 ## Repositories
 
-List Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
-
-Example repos:
-- https://github.com/data2health/project-repo-template
-- https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
+TO DO
 
 ## Deliverables
-Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
-
-## Milestones 
-Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
-
-Please create 4-8 Milestones for each project, with dates prior to August 31st.  Milestones for partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
-
-Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
-
-GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
-
-## Evaluation
-Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
-
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
-
-## Education
-Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file. 
-Please reference any of the following that apply: 
-- Educational resources that will be generated (these can be milestones and/or files in the repo)
-- Educational opportunities (please indicate for which type of learner and how to participate)
-- Best practices guides
-
-Please include education related issues where relevant, tagged with "education". 
+We expect at 6 months to complete a landscape analysis of data, tools, and workflows and establish an operational warehouse with a core set of common data and multiple hubs in active use. We will engage in active requirements gathering with the community and with NCATS, as well as leverage the personas to help ensure better UX overall. We will develop a disambiguation environment available to the community and in use by multiple CTSA hubs and two 4DM prototypes: one wrapping CTSAsearch services, and one mapping 4DM-style user interfaces onto CTSAsearch. 
 
 ## Get involved
-We encourage the community to get involved. Please invite any participants to [onboard](http://bit.ly/cd2h-onboarding-form)
 
-We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
-
-Please tag any engagment related issues with "engagement".
+TO DO
 
 ## Working documents
+TO DO
+
 Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
 [Documentating projects in Github](https://guides.github.com/features/wikis/)
 
@@ -84,6 +51,3 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 ## Slack room
 [The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above. Once there, add the scits-platform channel.
 
-## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
-
-This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more.
