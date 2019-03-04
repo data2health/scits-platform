@@ -1,7 +1,7 @@
 # Science of Translational Science Research Platform 
 
 ## Problem statement
-Finding expertise, data, software, and educational resources in the CTSA program is currently challending. This platform aims to reveal them and connect them to make them more discoverable. 
+Finding expertise, data, software, and educational resources in the CTSA program is currently challenging. This platform aims to reveal them and connect them to make them more discoverable. 
 
 ## Project description
 Organizations expend substantial effort maintaining local databases of effectively the same data - people, publications, grants, etc. and the challenge of scholar disambiguation and longitudinal data collection and tracking remains unsolved. A shared data environment in the form of a warehouse of research data was strongly endorsed by participants in the most recent PEA Community meeting. Collaborative population and maintenance of common data would reduce local hub effort, improve data quality, and serve as an exemplar of collaborative activity for the CTSA program and NIH programs overall. Substantial effort has been spent on this topic by hubs establishing priorities and developing manual and semi-automated processes which can help to guide efforts toward automation.
