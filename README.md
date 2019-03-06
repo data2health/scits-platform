@@ -14,7 +14,7 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-David Eichmann (@eichmann) | OHSU | Melissa Haendel (@mellybelly)
+David Eichmann (@eichmann) | Iowa | Melissa Haendel (@mellybelly)
 
 ## Leads 
 
