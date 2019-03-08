@@ -27,7 +27,7 @@ Keith Herzog (@KeithAHerzog) | Northwestern
 
 ## Team members 
 
-See TO DO
+See [team.md](team.md) file.
 
 ## Repositories
 
