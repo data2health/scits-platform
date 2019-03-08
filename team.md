@@ -1,11 +1,11 @@
 # Team Members
 
-## Lead
+## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
 Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 
-## Contributor
+## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
