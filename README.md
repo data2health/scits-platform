@@ -8,6 +8,9 @@ Organizations expend substantial effort maintaining local databases of effective
 
 The 4DM Project (Drug Discovery, Development and Deployment Map) created by NCATS has generated substantial interest in understanding the interdependencies of translational research and the entities involved. The 4DM prototype will be extended to incorporate relevant backing data from the data warehouse to display when selecting a vertex in the visualization graph. Ultimately, we can leverage these data for a variety of purposes at hubs, including workflows for improved data quality, process efficiency, automation, benchmarking, etc. We will first examine relevance for longitudinal scholar data tracking and reporting.
 
+## Alignment to program objectives
+TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
+
 ## Contact person
 
 We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
