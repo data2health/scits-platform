@@ -3,14 +3,14 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
-Peter Elkin | [github.com](http://github.com) | UBuffalo
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Harsha Ekanayake | [hpitawela](https://github.com/hpitawela) | Iowa
+Peter Elkin | [github.com](http://github.com) | UBuffalo
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 Shane Hasbrouck | [ShaneHasbrouck](https://github.com/ShaneHasbrouck) | Iowa
