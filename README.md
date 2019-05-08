@@ -30,7 +30,7 @@ Project scientific leadership, should be 1-3 persons.
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Keith Herzog (@KeithAHerzog) | Northwestern 
+David Eichmann (@eichmann) | Iowa 
 
 
 ## Team members 
