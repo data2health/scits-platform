@@ -12,9 +12,13 @@ The 4DM Project (Drug Discovery, Development and Deployment Map) created by NCAT
 
 We will use the Science of Translational Science Platform to demonstrate addressing the common CTSA need of longitudinal scholar data tracking and reporting.
 # Expected Outcomes
-The primary outcomes for this project are"
+The primary outcomes for this project are:
 * a warehouse integrating the spectrum of expertise and services described above, and
 * a suite of services that hubs and others (e.g. CLIC) can interrogate and/or embed into their local information environments.
 # Timeline (monthly)
 
 # Potential Pitfalls and Alternative Strategies
+
+A substantial number of external sources are already being regularly harvested and integrated into SciTS: educational resources (DIAMOND, N-Lighten, BD2K GitHub repositories), data repositories (e.g., DataCite), GitHub repositories, etc. - significantly reducing the overall risk to success in populating SciTS. The outstanding potential challenges include:
+* successful harmonization of educational resources, simplifying the current diversity of their descriptions,
+* formulation of an effective descriptive framework for services provided by CTSA hubs
