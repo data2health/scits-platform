@@ -28,7 +28,7 @@ The primary outcomes for this project are:
 
 # Potential Pitfalls and Alternative Strategies
 
-A substantial number of external sources are already being regularly harvested and integrated into SciTS: educational resources (DIAMOND, N-Lighten, BD2K GitHub repositories), data repositories (e.g., DataCite), GitHub repositories, etc. - significantly reducing the overall risk to success in populating SciTS. The outstanding potential challenges include:
+A substantial number of external sources are already being regularly harvested and integrated into SciTS: educational resources (DIAMOND, N-Lighten, BD2K GitHub repositories), data repositories (e.g., DataCite), GitHub repositories, etc. - significantly reducing the overall risk to success in populating SciTS. Key outstanding potential challenges include:
 * successful harmonization of educational resources, simplifying the current diversity of their descriptions,
 * formulation of an effective descriptive framework for services provided by CTSA hubs, and
 * significant services adoption by the hubs and other organizations.
