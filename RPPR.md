@@ -21,4 +21,6 @@ The primary outcomes for this project are:
 
 A substantial number of external sources are already being regularly harvested and integrated into SciTS: educational resources (DIAMOND, N-Lighten, BD2K GitHub repositories), data repositories (e.g., DataCite), GitHub repositories, etc. - significantly reducing the overall risk to success in populating SciTS. The outstanding potential challenges include:
 * successful harmonization of educational resources, simplifying the current diversity of their descriptions,
-* formulation of an effective descriptive framework for services provided by CTSA hubs
+* formulation of an effective descriptive framework for services provided by CTSA hubs, and
+* significant services adoption by the hubs and other organizations.
+The first two involve primarily modeling and alignment with and by external teams.  We have been in continued consultation with the education platform teams and the SPARC team at MUSC to ensure our work aligns well with their plans. The last one is more demonstrating utility to the population of hubs.  We have already received strong interest from various hubs for particular services - e.g. from Medical College of Wisconsin for a service listing open funding opportunities relevant to their investigator profiles and from Wisconsin-Madison for a service listing W-M personnel active on CD2H projects.  We will continue to recruit suggestions from hubs for services seen as high value to their local environment.
