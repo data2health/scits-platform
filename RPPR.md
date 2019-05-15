@@ -18,7 +18,7 @@ The primary outcomes for this project are:
 
 # Deliverables
 * **SciTS Warehouse, Version 1**
-  * CTSA Consortium connectivity via JDBC and GraphQL interfaces
+  * CTSA Consortium access via JDBC and GraphQL interfaces
 * **SciTS Warehouse, Version 1.5**
   * Extended 4DM connectivity to CD2H faceted search engine using UMLS CUIs
 
