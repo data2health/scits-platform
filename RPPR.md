@@ -32,6 +32,7 @@ The primary outcomes for this project are:
 * 6/1 - Landscape analysis of scholar reporting best practices
 * 8/1 - Deployment of a set of researcher disambiguation services
 * 9/1 - Full expansion to semantic search within 4DM (via UMLS CUIs) with the CD2H faceted search engine
+* 9/1 - Version 1.5 of the SciTS warehouse
 * 9/20 - Scholar tracking guidebook, dashboard, use cases
 * 1/1 - Deployment of CTSA hub service catalog in the CD2H faceted search engine
 * 1/1 - Coverage of CTSA hub web content harvesting to include partner organizations
