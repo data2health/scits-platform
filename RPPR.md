@@ -15,6 +15,7 @@ We will use the Science of Translational Science Platform to demonstrate address
 The primary outcomes for this project are:
 * a warehouse integrating the spectrum of expertise and services described above, and
 * a suite of services that hubs and others (e.g. CLIC) can interrogate and/or embed into their local information environments.
+* long-term, we will migrate the production instances of both the warehouse and the search services to the NCATS cloud. Given current activities by the CD2H cloud team, this will likely be towards the end of year 3 or beginning of year 4.
 
 # Deliverables
 * **SciTS Warehouse, Version 1**
