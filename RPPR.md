@@ -4,7 +4,7 @@ Don't edit this - the RPPR generator populates this section
 # Research Design
 Finding resources of translational relevancy across the CTSA program. This platform aims to reveal and connect expertise, services, educational resources, datasets, software tools, and other translational artifacts.
 # Methodology
-Organizations expend substantial effort maintaining local databases of effectively the same data - people, publications, grants, etc. and the challenge of scholar disambiguation and longitudinal data collection and tracking remains unsolved. The Science of translational science platform performs large-scale data integration from a large variety of sources using both structured and unstructured information. These data elements are indexed using semantic technologies for querying and discovery. A user interface will allow querying and exploration. Finally, widgets will be built to deliver context-specific content to CTSA hubs, CLIC Forums, the Competitions review software, etc.
+Organizations expend substantial effort maintaining local databases of effectively the same data - people, publications, grants, etc. and the challenge of scholar disambiguation and longitudinal data collection and tracking remains unsolved. The Science of translational science platform performs large-scale data integration from a large variety of sources using both structured and unstructured information. These data elements are indexed using semantic technologies for querying and discovery. A user interface will allow querying and exploration. A key responsibility of the to-be-hired web developer will be refining the usability of the "front door" search interface. Finally, widgets will be built to deliver context-specific content to CTSA hubs, CLIC Forums, the Competitions review software, etc. A major component of this (scheduled for version 1) is a search interface widget that can be embedded in hub web sites (in addition to other interested groups, e.g., CLIC).
 
 A shared data environment in the form of a warehouse of research data was strongly endorsed by participants in the most recent PEA Community meeting. Collaborative population and maintenance of common data would reduce local hub effort, improve data quality, and serve as an exemplar of collaborative activity for the CTSA program and NIH programs overall. Substantial effort has been spent on this topic by hubs establishing priorities and developing manual and semi-automated processes which can help to guide efforts toward automation.
 
@@ -15,7 +15,7 @@ We will use the Science of Translational Science Platform to demonstrate address
 The primary outcomes for this project are:
 * a warehouse integrating the spectrum of expertise and services described above, and
 * a suite of services that hubs and others (e.g. CLIC) can interrogate and/or embed into their local information environments.
-* long-term, we will migrate the production instances of both the warehouse and the search services to the NCATS cloud. Given current activities by the CD2H cloud team, this will likely be towards the end of year 3 or beginning of year 4.
+* long-term, we will migrate the production instances of both the warehouse and the search services to the NCATS cloud. Given current activities by the CD2H cloud team, this will likely be towards the end of year 3 or beginning of year 4. The overall result will hence be a persistent resource in the NCATS cloud with optional customizable deployment of the interface in a hub's local environment.
 
 # Deliverables
 * **SciTS Warehouse, Version 1**
