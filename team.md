@@ -8,6 +8,7 @@ Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Harsha Ekanayake | [hpitawela](https://github.com/hpitawela) | Iowa
 Peter Elkin | [github.com](http://github.com) | UBuffalo
@@ -22,22 +23,27 @@ Chaoqun Ni | [nichaoqun](https://github.com/nichaoqun) | Iowa
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
 Tamara Winden | [tjwinden](http://github.com/tjwinden) | KansasU
+Elizabeth Zak | [ezak101](https://github.com/ezak101) | Iowa
 
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
-Matt Baumann | [mattbaumann1](http://github.com/mattbaumann1) | Northwestern
 Tom Campion | [github.com](http://github.com) | Cornell
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
+Catherine  Craven | [github.com](http://github.com) | Icahn
+Jack DiGiovanna | [jackDigi](https://github.com/jackDigi) | SevenBridges
 David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Joseph Finkelstein | [finkeljOMOP](http://github.com/finkeljOMOP) | Icahn
 Tricia Francis | [tricfran](http://github.com/tricfran) | JHU
+John Franz | [github.com](http://github.com) | Icahn
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
+Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
+Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
