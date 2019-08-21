@@ -28,6 +28,7 @@ Elizabeth Zak | [ezak101](https://github.com/ezak101) | Iowa
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Tom Campion | [github.com](http://github.com) | Cornell
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
