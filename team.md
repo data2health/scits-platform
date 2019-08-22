@@ -44,6 +44,7 @@ Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
 Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
