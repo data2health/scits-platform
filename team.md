@@ -42,6 +42,7 @@ John Franz | [github.com](http://github.com) | Icahn
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
+Steve Johnson | [github.com](http://github.com) | NYU
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
